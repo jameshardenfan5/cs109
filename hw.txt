@@ -1,0 +1,7 @@
+HW
+
+Write a program that reads words from a text file. If the word is a number between 1 and 999, spells out it in English and write it to a new file; if the word is not a number, write it directly to the new file.
+ 
+For example:
+Original file: There are 453 people in this room.         a New file: There are four hundred fifty three people in this room.
+
